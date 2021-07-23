@@ -16,6 +16,7 @@ function App() {
     <AppContainer>
       <AccountBox/>
       <h1>hello test</h1>
+      <h1>hello</h1>
     </AppContainer>
   );
 }
