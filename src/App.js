@@ -15,6 +15,7 @@ function App() {
   return (
     <AppContainer>
       <AccountBox/>
+      <h1>hello test</h1>
     </AppContainer>
   );
 }
